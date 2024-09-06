@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @IvanTang26
 - 👀 I’m interested in building a saas company and algorithmic trading
-- 🗃️ Working on multiple frontend and backend project using TypeScript and Next.js and the Algo Trading project using Pinescript V5 & MQL5.
-- 🌱 I’m currently learning ...
+- 🗃️ Working on multiple frontend and backend projects using TypeScript and Next.js and the Algo Trading project using Pinescript V5 & MQL5.
+- 🌱 I’m currently learning Algorithmic Trading
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Please click the link in the left-hand side 
+- 📫 How to reach me: Please click the link on the left-hand side of my profile 
 - 😄 
 - ⚡ 
 
